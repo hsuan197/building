@@ -24,6 +24,7 @@ body{
     height: 50vw;
     display: block;
     position: relative;
+	overflow-x: hidden;
 }
 
 .content{
