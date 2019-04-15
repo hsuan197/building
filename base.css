@@ -1,0 +1,129 @@
+body{
+    display: block;
+    background-color: #2c555e;
+    width: 100vw;
+    margin: 0%;
+    padding: 0%;
+    left: 0%;
+    top: 0%;
+    overflow-x: hidden;
+}
+
+#up{
+    width: 30px;
+    height: 30px;
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.section{  
+    background-color: #dddddd;
+    width: 100vw;
+    height: 50vw;
+    display: block;
+    position: relative;
+}
+
+.content{
+    margin-left: 20%;
+    top: 25%;
+    width: 60%;
+    height: 80%;
+    display: block;
+    position: relative;
+}
+
+#logo{
+    position: absolute;
+    left: 2vw;
+    top: 2vw;
+    width: 12vw;
+    max-width: 100px;
+}
+
+h1{
+    position: absolute;
+    border: #ffffff;
+    border-color: #ffffff;
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    width: 80%;
+    left: 10%;
+    top: 1vw;
+    text-align: center;
+    color: #233639;
+    margin: 0;
+    font: 5vw Microsoft JhengHei;
+    font-weight: bold;
+}
+
+div{
+    color: #ffffff;
+    margin: 0;
+    font: 2.5vw Microsoft JhengHei;
+    text-align: center;
+}
+
+
+
+#city1{
+    position: absolute;
+    right: 0;
+    height: 20vw;
+    bottom: -5vw;
+}
+
+#city2{
+    position: absolute;
+    right: 0;
+    height: 20vw;
+    bottom: 2vw;
+}
+
+.feature{
+    position: absolute;
+    width: 20vw;
+    top: 12vw;
+}
+
+.picture{
+    position: absolute;
+    width: 16vw;
+    top: 12vw;
+    border-radius: 50%;
+}
+
+.picture2{
+    position: absolute;
+    width: 16vw;
+    top: 32vw;
+    border-radius: 50%;
+}
+
+h3{
+    position: absolute;
+    width: 20vw;
+    bottom: 7vw; 
+    text-align: center;
+    color:#2c555e;
+    font: 3vw Microsoft JhengHei;
+}
+
+h4{    
+    position: absolute;
+    width: 16vw;
+    top: 24vw; 
+    text-align: center;
+    color:#dddddd;
+    font: 3vw Microsoft JhengHei;
+    font-weight: bold;
+}
+
+#use{
+    position: absolute;
+    width: 60%;
+    bottom: 5vw; 
+    left: 20%;
+}
