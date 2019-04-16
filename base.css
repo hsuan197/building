@@ -92,14 +92,14 @@ div{
 .picture{
     position: absolute;
     width: 16vw;
-    top: 12vw;
+    top: 8vw;
     border-radius: 50%;
 }
 
 .picture2{
     position: absolute;
     width: 16vw;
-    top: 32vw;
+    top: 28vw;
     border-radius: 50%;
 }
 
@@ -115,7 +115,7 @@ h3{
 h4{    
     position: absolute;
     width: 16vw;
-    top: 24vw; 
+    top: 20vw; 
     text-align: center;
     color:#dddddd;
     font: 3vw Microsoft JhengHei;
