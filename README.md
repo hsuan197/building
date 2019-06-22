@@ -6,5 +6,5 @@ D組
 ## 【專案名稱】
 安居Angel
 
-## 主頁截圖
+## 【主頁截圖】
 ![Angel](./angelindex.JPG)
