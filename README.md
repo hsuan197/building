@@ -7,4 +7,4 @@ D組
 安居Angel
 
 ## 主頁截圖
-![Angel](./screenshots/angelindex.JPG)
+![Angel](./angelindex.JPG)
